@@ -1,0 +1,23 @@
+
+How to start the program:
+
+The file is stored in Iceline_of/bin
+It is the “Iceline_of” file.
+Double click it and it will start up.
+
+====================================
+
+How to use the config file:
+
+
+“#” <- this is a comment. This wont be read by the program
+“List A” <- says the following video files are for list A (the calm videos)
+“List B” <- says the following video files are for list b (the chaos videos)
+
+Put all video files in the “data” folder (full path is Iceline_of/bin/data)
+
+Make sure the names in the config file match the names of the video files, including extension (.mov, mp4, etc)
+
+
+
+
